@@ -1,6 +1,6 @@
 {
   "name": "floorplan.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create and render floor plans in Javascript easily",
   "main": "index.js",
   "repository": "https://github.com/smplrspace/floorplan.js",
