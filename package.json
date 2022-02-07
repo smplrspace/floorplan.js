@@ -4,5 +4,15 @@
   "description": "Create and render floor plans in Javascript easily",
   "main": "index.js",
   "repository": "https://github.com/smplrspace/floorplan.js",
-  "author": "Thibaut Tiberghien <thibaut@smplrspace.com>"
+  "author": "Thibaut Tiberghien <thibaut@smplrspace.com>",
+  "keywords": [
+    "floorplan",
+    "floor plan",
+    "indoor",
+    "space",
+    "2d",
+    "3d",
+    "map",
+    "floor"
+  ]
 }
