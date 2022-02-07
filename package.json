@@ -5,6 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/smplrspace/floorplan.js",
   "author": "Thibaut Tiberghien <thibaut@smplrspace.com>",
+  "homepage": "https://floorplanjs.org",
   "keywords": [
     "floorplan",
     "floor plan",
