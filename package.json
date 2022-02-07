@@ -1,0 +1,8 @@
+{
+  "name": "floorplan.js",
+  "version": "0.0.1",
+  "description": "Create and render floor plans in Javascript easily",
+  "main": "index.js",
+  "repository": "git@github.com:smplrspace/floorplan.js.git",
+  "author": "Thibaut Tiberghien <thibaut@smplrspace.com>"
+}
